@@ -3,8 +3,8 @@ const path=require("path")
 
 //to create a folder
 // try {
-//     const data=path.join(__dirname,"My folder")
-//     fs.mkdirSync(data)
+//     const prakhar=path.join(__dirname,"My Boy")
+//     fs.mkdirSync(prakhar)
 //     console.log("Folder created!")
 // } catch (error) {
 //     console.log(error.message)
